@@ -1,7 +1,7 @@
 name: typing_text
 description: "This package creates a Typing Text Animation"
 version: 0.1.0
-homepage: "https://"
+homepage: "https://github.com/Sandeepsunil01/typing-text"
 
 environment:
   sdk: ">=3.4.3 <4.0.0"
